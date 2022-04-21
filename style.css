@@ -14,5 +14,5 @@ body {
     width: 600px;
     height: 600px;
     background: #666;
-    background-image: url(/yoga.png);
+    background-image: url(../yoga.png);
 }
